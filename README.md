@@ -4,7 +4,7 @@
 
 This project explores **feature reduction and model interpretability** in a controlled classification task.  
 Using a smartphone price dataset, the experiment shows that even with **85% fewer features (20 → 3)**, model performance remains nearly unchanged **(~91% accuracy)**.  
-The workflow illustrates how to identify the most informative variables and remove redundant dimensions without losing predictive power.  
+The workflow illustrates how to identify the most informative variables and remove redundant dimensions without losing predictive power.   
 
 ---
 
